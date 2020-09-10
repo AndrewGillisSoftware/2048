@@ -1,0 +1,73 @@
+﻿  2048.cpp
+C:\Users\Andre\Desktop\C++\2048\2048\Game.h(8,1): warning C4005:  'boardSizeX': macro redefinition
+C:\Users\Andre\Desktop\C++\2048\2048\Tile.h(8): message :  see previous definition of 'boardSizeX'
+C:\Users\Andre\Desktop\C++\2048\2048\Game.h(9,1): warning C4005:  'boardSizeY': macro redefinition
+  Game.cpp
+C:\Users\Andre\Desktop\C++\2048\2048\Tile.h(9): message :  see previous definition of 'boardSizeY'
+C:\Users\Andre\Desktop\C++\2048\2048\Game.h(8,1): warning C4005:  'boardSizeX': macro redefinition
+C:\Users\Andre\Desktop\C++\2048\2048\Tile.h(8): message :  see previous definition of 'boardSizeX'
+C:\Users\Andre\Desktop\C++\2048\2048\Game.h(9,1): warning C4005:  'boardSizeY': macro redefinition
+C:\Users\Andre\Desktop\C++\2048\2048\Tile.h(9): message :  see previous definition of 'boardSizeY'
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(64,45): warning C4244:  'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(64,32): warning C4244:  'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(65,64): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(65,64): warning C4244:         with
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(65,64): warning C4244:         [
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(65,64): warning C4244:             T=unsigned int
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(65,64): warning C4244:         ]
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(65,64): warning C4244:         and
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(65,64): warning C4244:         [
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(65,64): warning C4244:             T=float
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(65,64): warning C4244:         ]
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(65,40): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(65,40): warning C4244:         with
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(65,40): warning C4244:         [
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(65,40): warning C4244:             T=unsigned int
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(65,40): warning C4244:         ]
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(65,40): warning C4244:         and
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(65,40): warning C4244:         [
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(65,40): warning C4244:             T=float
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(65,40): warning C4244:         ]
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(72,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(147,58): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(147,58): warning C4244:         with
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(147,58): warning C4244:         [
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(147,58): warning C4244:             T=unsigned int
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(147,58): warning C4244:         ]
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(147,36): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(147,36): warning C4244:         with
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(147,36): warning C4244:         [
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(147,36): warning C4244:             T=unsigned int
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(147,36): warning C4244:         ]
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(458,15): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(459,14): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(490,66): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(490,66): warning C4244:         with
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(490,66): warning C4244:         [
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(490,66): warning C4244:             T=unsigned int
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(490,66): warning C4244:         ]
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(490,66): warning C4244:         and
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(490,66): warning C4244:         [
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(490,66): warning C4244:             T=float
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(490,66): warning C4244:         ]
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(490,46): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(490,46): warning C4244:         with
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(490,46): warning C4244:         [
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(490,46): warning C4244:             T=unsigned int
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(490,46): warning C4244:         ]
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(490,46): warning C4244:         and
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(490,46): warning C4244:         [
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(490,46): warning C4244:             T=float
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(490,46): warning C4244:         ]
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(501,46): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(501,46): warning C4244:         with
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(501,46): warning C4244:         [
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(501,46): warning C4244:             T=float
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(501,46): warning C4244:         ]
+  Generating Code...
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(501,36): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(501,36): warning C4244:         with
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(501,36): warning C4244:         [
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(501,36): warning C4244:             T=float
+C:\Users\Andre\Desktop\C++\2048\2048\Game.cpp(501,36): warning C4244:         ]
+  2048.vcxproj -> C:\Users\Andre\Desktop\C++\2048\Debug\2048.exe
